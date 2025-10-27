@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Github Skills tutorial
 ---
 
 x
